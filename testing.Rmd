@@ -25,4 +25,7 @@ with(trees,symbols(Height,Volume,circles = Girth/16,inches = F,bg="deeppink",fg 
 
 
 
-
+```{r}
+ x=45/2
+ x
+ ```
